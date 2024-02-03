@@ -1,0 +1,21 @@
+.taskItemList {
+  background-color: #131213;
+  padding: 15px 25px 15px 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 7px;
+}
+.para {
+  font-size: 16px;
+  color: #f8f8f8;
+  font-weight: 400;
+}
+.customPara {
+  background-color: #f3aa4e;
+  color: #1a171d;
+  padding: 5px 10px 5px 10px;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 600;
+}
